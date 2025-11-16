@@ -1,0 +1,27 @@
+{
+  "name": "erc7540-vault-implementation",
+  "version": "1.0.0",
+  "description": "Complete implementation of EIP-7540 Asynchronous ERC-4626 Tokenized Vaults",
+  "author": "Your Name",
+  "license": "MIT",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy": "hardhat run scripts/deploy.js",
+    "verify": "hardhat verify"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@openzeppelin/contracts": "^5.0.1",
+    "hardhat": "^2.19.0"
+  },
+  "keywords": [
+    "ethereum",
+    "eip-7540",
+    "erc-4626",
+    "vault",
+    "defi",
+    "async",
+    "asynchronous"
+  ]
+}

@@ -1,0 +1,7 @@
+web3==6.11.3
+python-dotenv==1.0.0
+requests==2.31.0
+eth-account==0.10.0
+py-solc-x==2.0.2
+pytest==7.4.3
+black==23.12.1
